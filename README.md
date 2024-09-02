@@ -40,8 +40,7 @@
 ## 五、总结与展望
 本项目成功实现了基于 MySQL + Spark + Echarts + Spring Boot 的豆瓣电影数据可视化，为电影爱好者、研究者和从业者提供了有价值的数据分析和可视化工具。未来，可以进一步扩展数据来源和分析维度，提高数据的准确性和完整性，同时优化可视化效果，提供更加丰富和交互性强的用户体验。还可以考虑添加更多的功能模块，如用户登录、数据分享等，使项目更加完善和实用。
 
-![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/gongsunyanming/-/blob/main/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/index.png
-))
+![image](https://github.com/gongsunyanming/-/blob/main/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/index.png)
 ![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/gongsunyanming/-/blob/main/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/1.png
 ))![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/gongsunyanming/-/blob/main/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/2.png
 ))![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/gongsunyanming/-/blob/main/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/3.png
